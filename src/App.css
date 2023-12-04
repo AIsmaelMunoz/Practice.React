@@ -1,0 +1,10 @@
+#app{
+    background-color: aqua;
+    text-align: center;
+    color: brown;
+}
+#app img{
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+}
